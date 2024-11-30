@@ -1,1 +1,1 @@
-# quiita-content
+# qiita-content
